@@ -58,6 +58,7 @@ h1 {
 .submit-button {
   text-transform: uppercase;
   padding: 1rem 2rem;
+  margin-bottom: 3rem;
   background-color: #000;
   letter-spacing: .05rem;
   color: #fff;
